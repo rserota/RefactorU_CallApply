@@ -1,0 +1,13 @@
+.button {
+    height: 100px;
+    width:100px;
+    border-radius: 50px;
+    background-color:peachpuff;
+    text-align: center;
+}
+
+p {
+    padding-top:30px;
+    font-family:fantasy;
+    font-size:24px;
+}
